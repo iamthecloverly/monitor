@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/86469621
   name: Status | Sribalaji
   introTitle: "**Status | Sribalaji** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [**GitHub repository**](https://github.com/iamthecloverly/monitor). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is a status page which uses **real-time** data from our [**GitHub repository**](https://github.com/iamthecloverly/monitor). By just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
@@ -38,7 +38,16 @@ status-website:
       href: https://github.com/$OWNER
     - title: LinkedIn
       href: https://www.linkedin.com/in/thecloverly
-  theme: light
+  theme: ocean
+  
+  commitAuthorName: "SriBalaji"
+  commitAuthorEmail: "iam.thecloverly@pm.me"
+  
+  icon: https://avatars.githubusercontent.com/u/86469621
+  user-agent: iamthecloverly
+  
+  i18n:
+  footer: This page is [open source]($REPO), powered by **Upptime** and **GitHub**
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
