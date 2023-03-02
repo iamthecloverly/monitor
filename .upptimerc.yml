@@ -40,6 +40,7 @@ status-website:
       href: https://www.linkedin.com/in/thecloverly
   theme: ocean
   
+  commitMessages:
   commitAuthorName: "SriBalaji"
   commitAuthorEmail: "iam.thecloverly@pm.me"
   
