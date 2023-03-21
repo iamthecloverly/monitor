@@ -78,17 +78,19 @@
     "url": "https://iamsribalaji.in",
     "icon": "https://icons.duckduckgo.com/ip3/iamsribalaji.in.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 332,
-    "timeWeek": 265,
-    "timeMonth": 270,
-    "timeYear": 270,
-    "dailyMinutesDown": {}
+    "time": 265,
+    "timeDay": 248,
+    "timeWeek": 253,
+    "timeMonth": 265,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   }
 ]
