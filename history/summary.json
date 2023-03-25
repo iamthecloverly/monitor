@@ -4,9 +4,9 @@
     "url": "https://www.sribalaji.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sribalaji.eu.org.ico",
     "slug": "sribalaji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 252,
     "timeMonth": 231,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-25": 0
+    }
   },
   {
     "name": "Techviz",
@@ -60,9 +62,9 @@
     "url": "https://cloud.sribalaji.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sribalaji.eu.org.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 3951,
     "timeMonth": 4676,
     "timeYear": 4758,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-25": 0
+    }
   },
   {
     "name": "Portfolio",
@@ -79,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamsribalaji.in.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "85.08%",
+    "uptime": "82.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.38%",
-    "uptimeMonth": "85.08%",
-    "uptimeYear": "85.08%",
+    "uptimeWeek": "42.59%",
+    "uptimeMonth": "82.85%",
+    "uptimeYear": "82.85%",
     "time": 250,
     "timeDay": 183,
     "timeWeek": 231,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-03-25": 85,
+      "2023-03-25": 971,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
